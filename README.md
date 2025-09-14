@@ -1,6 +1,8 @@
 # Structure-Preserving-Noise2Noise
 This is the implementation code for 2025 paper "Structure-Preserving Noise2Noise: Image Denoising via Zero-Shot Noise2Noise and L0 Gradient Minimization"
 
+##  References
+
 This project builds upon a number of prior works in image denoising and restoration.  
 Key references include:
 
@@ -39,3 +41,8 @@ Key references include:
 - Jingyun Liang, Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, and Radu Timofte.  
   *SwinIR: Image Restoration Using Swin Transformer*.  
   ICCV, 2021.  [[paper]](https://doi.org/10.1109/ICCV48922.2021.00188)
+
+---
+
+
+
