@@ -1,10 +1,6 @@
 # Structure-Preserving-Noise2Noise
 This is the implementation code for 2025 paper "Structure-Preserving Noise2Noise: Image Denoising via Zero-Shot Noise2Noise and L0 Gradient Minimization"
 
-# Structure-Preserving Noise2Noise
-
-This repository contains the official implementation of our submission to the **Yau Science Award 2025**.
-
 ## Installation
 ```bash
 pip install -r requirements.txt
