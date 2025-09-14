@@ -6,6 +6,13 @@ This is the implementation code for 2025 paper "Structure-Preserving Noise2Noise
 pip install -r requirements.txt
 ```
 
+## Results
+
+Below is a comparison between our method (ZS-N2N + L0) and classical baselines:
+
+![Comparison of denoising methods](all_methods_comparison.png)
+
+
 ##  References
 
 This project builds upon a number of prior works in image denoising and restoration.  
